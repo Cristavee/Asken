@@ -27,8 +27,8 @@ dependencies = []
 dev = ["pytest>=8", "pytest-asyncio>=0.23"]
 
 [project.urls]
-Homepage = "https://github.com/Cristavee/asken"
-Issues = "https://github.com/Cristavee/asken/issues"
+Homepage = "https://github.com/Cristavee/Asken"
+Issues = "https://github.com/Cristavee/Asken/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
